@@ -1,2 +1,2 @@
 # Bike-Sales-Project
-#### Includes data cleaning, pivot tables, and dashboard
+#### Includes raw data, cleaned data, pivot tables, and dashboard
